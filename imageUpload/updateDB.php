@@ -2,7 +2,7 @@
 class ImageLoader{
      // photo uploader function
        public static function loader(){
-         //connection to database
+         
         $connect = mysqli_connect("localhost:3306", "root", "root", "sm_test_bd");
 
         
