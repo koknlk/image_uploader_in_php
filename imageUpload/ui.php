@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-       <title>Uploaded images</title> 
+       <title>Uploaded images list</title> 
        <style>
            body{
                display: flex;
