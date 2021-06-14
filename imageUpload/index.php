@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-       <title>GET Uploaded images</title>
+       <title>GET Uploaded image</title>
        
    </head>
    <body>
